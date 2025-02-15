@@ -11,3 +11,4 @@ Silakan gunakan format berikut:<br>
 Berikut adalah daftar Volunter yang diterima:
 * Ammar, [ar.or.id](https://ar.or.id).
 * Mecca, [am.or.id](https://am.or.id).
+* am-clone, [Linkedin](https://www.linkedin.com/in/gilang-adhan/).
